@@ -22,3 +22,8 @@ task :deploy, :message do |t, args|
 
   
 end
+
+desc "push to remotes"
+task :push do
+  system "git push -u origin master"
+end
