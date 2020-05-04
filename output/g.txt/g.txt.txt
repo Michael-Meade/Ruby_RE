@@ -1,0 +1,13 @@
+[ FILE ]
+g.txt: ERROR: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked error reading (Invalid argument)
+
+[ URLS & IPS ]
+ 
+Binary file (standard input) matches
+
+[ INTRESTING STRINGS ]
+ cron
+
+
+[ FILE HASH ]
+ MD5: 40b566f00a7835f4e2b6c0b6901a59b6

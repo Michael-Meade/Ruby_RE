@@ -1,0 +1,14 @@
+[ FILE ]
+c923d2a61aff262b809ba32b5ca8fa22557aa9a9dc0236c3c926c4ea85c66d2b: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, not stripped
+
+[ URLS & IPS ]
+ Binary file c923d2a61aff262b809ba32b5ca8fa22557aa9a9dc0236c3c926c4ea85c66d2b matches
+
+Binary file (standard input) matches
+
+[ INTRESTING STRINGS ]
+ wget
+
+
+[ FILE HASH ]
+ MD5: ed52da2ca37f9c2d41c9b361022548b7

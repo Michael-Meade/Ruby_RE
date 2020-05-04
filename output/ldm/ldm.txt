@@ -1,5 +1,18 @@
-[ FILE ]
+[ FIL[ FILE ]
 ldm: POSIX shell script, ASCII text executable, with very long lines
+
+[ URLS & IPS ]
+ 127.0.0.1
+127.0.0.1
+127.0.0.1
+127.0.0.1
+127.0.0.1
+
+http://dl-cdn.alpinelinux.org/alpine/v3.9/main
+https://busybox.net/downloads/binaries/1.30.0-i686/busybox_
+https://busybox.net/downloads/binaries/1.30.0-i686/busybox_CROND
+https://busybox.net/downloads/binaries/1.30.0-i686/busybox_CRONTAB
+https://xyxg3xqckmqy2wbp
 
 [ INTRESTING STRINGS ]
  cron
@@ -10,5 +23,14 @@ wget
 
 curl
 
+pastebin
+
+
 [ FILE HASH ]
- MD5: 0991dd677e60b7663b163ff605c738bd
+ MD5: 6f16087677e134e199e0bf89031cba52
+
+[ Monero ADDRESSES ]
+ 4AdUndXHHZ6cfufTMvppY6JwXNouMBzSkbLYfpAV5Usx3skxNgYeYTRj5UzqtReoS44qo9mtmXCqY45DJ852K5Jv2684Rge
+
+[ Bitcoin ADDRESSES ]
+ 1BoatSLRHtKNngkdXEeobR76b53LETtpyT

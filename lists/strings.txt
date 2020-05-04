@@ -3,3 +3,4 @@ monero
 xmr
 wget
 curl
+pastebin

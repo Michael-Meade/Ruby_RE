@@ -1,0 +1,14 @@
+[ FILE ]
+6e997a09cf00c5d2f267401975514d89941704507b62e12c7737b706ba083447.sh: POSIX shell script, ASCII text executable
+
+[ URLS & IPS ]
+ 
+http://idip.do.am/cache.pdf
+http://radiodeea.hi2.ro/asp.db
+
+[ INTRESTING STRINGS ]
+ wget
+
+
+[ FILE HASH ]
+ MD5: 0fd03734125aea29d6c785a50577bd5f
