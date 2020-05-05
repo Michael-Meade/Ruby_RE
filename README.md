@@ -2,7 +2,7 @@
 Scan files
 
 
-### Features 
+# Features 
 
 ## md5
 ```RE::Commands.hash_file(file)``` method can be used to hash the file.
