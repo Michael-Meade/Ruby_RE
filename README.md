@@ -23,6 +23,6 @@ by most if not all the other methods. Most of them will read through each line l
 URLS and try to download the files. This is supposed to make it easier figure out what script does. 
 
 ## CRYPTO
-'''RE::Crypto.all(file)``` - This method combines all the methods in the class into one. This function is to detect bitcoin addresses and monero address.
+```RE::Crypto.all(file)``` - This method combines all the methods in the class into one. This function is to detect bitcoin addresses and monero address.
 It is also able to detect SSH keys. 
 
