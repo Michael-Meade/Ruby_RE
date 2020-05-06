@@ -28,3 +28,6 @@ It is also able to detect SSH keys.
 
 ### Example
 ```ruby main.rb ldm```
+
+### Output
+output/ldm
