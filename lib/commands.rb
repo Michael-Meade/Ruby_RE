@@ -7,7 +7,9 @@ module RE
 	class Commands
 		def self.new_file(file_name)
 			# Removes the content of the file. If it exists. It will write over a file.
-			File.truncate(File.join("output", file_name, file_name + ".txt"), 5)
+			if File.exists?(File.join("output", file_name, file_name + ".txt"))
+				File.truncate(File.join("output", file_name, file_name + ".txt"), 5)
+			end
 		end
 		def self.file_command(file_name)
 			# Runs the file command. If the output includes the word dynamic. It will also run

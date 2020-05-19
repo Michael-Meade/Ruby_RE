@@ -1,0 +1,12 @@
+[ FILE ]
+19778a62055770a9e5f890e52227ccd39251bf23045c15383411638540ceabf7.sh: Bourne-Again shell script, ASCII text executable, with escape sequences
+
+[ URLS & IPS ]
+ 
+
+[ INTRESTING STRINGS ]
+ wget
+
+
+[ FILE HASH ]
+ MD5: 678af2ec3251f8692c9324ffe64c198a

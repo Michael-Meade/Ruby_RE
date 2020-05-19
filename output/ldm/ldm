@@ -16,3 +16,12 @@ http://dl-cdn.alpinelinux.org/alpine/v3.9/main
 https://busybox.net/downloads/binaries/1.30.0-i686/busybox_$
 https://busybox.net/downloads/binaries/1.30.0-i686/busybox_CROND
 https://busybox.net/downloads/binaries/1.30.0-i686/busybox_CRONTAB
+sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+https://xyxg3xqckmqy2wbp
+bpath:-
+R:-0
+R:-0
+http://dl-cdn.alpinelinux.org/alpine/v3.9/main
+https://busybox.net/downloads/binaries/1.30.0-i686/busybox_$
+https://busybox.net/downloads/binaries/1.30.0-i686/busybox_CROND
+https://busybox.net/downloads/binaries/1.30.0-i686/busybox_CRONTAB
